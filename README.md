@@ -1,4 +1,6 @@
 # Minecraft Command Generator UI
+![screenshot](https://raw.githubusercontent.com/EGA-SUPREMO/minecraft-command-generator-ui/master/Screenshot%202024-04-13%2017%3A13%3A08.webp)
+
 Command generator for Minecraft, instead of writing the command by hand, you can select some things and get generated the command automatically.
 
 The only big problem is that only the IU is made, so you need to make the back-end part if you want to make this program useful.
@@ -18,6 +20,10 @@ Developed as part of the [Comprehensive Java Programming Course](https://www.you
 * [Minecraft command generator ui](https://github.com/EGA-SUPREMO/minecraft-command-generator-ui): Developed to apply Java GUI concepts learned in the course to create a user-friendly Minecraft command generator.
 * [Mini word processor](https://github.com/EGA-SUPREMO/mini-word-processor): Created as a project to reinforce understanding of object-oriented programming principles by implementing a simple word processor in Java.
 
+
+![screenshot](https://raw.githubusercontent.com/EGA-SUPREMO/minecraft-command-generator-ui/master/Screenshot%202024-04-13%2017%3A13%3A33.webp)
+
+![screenshot](https://raw.githubusercontent.com/EGA-SUPREMO/minecraft-command-generator-ui/master/Screenshot%202024-04-13%2017%3A12%3A39.webp)
 
 ## License
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
