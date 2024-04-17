@@ -7,6 +7,7 @@ This repository is abandoned as there are many other command generators that you
 
 Also the code is written in Spanish.
 
+-------------------
 
 Developed as part of the [Comprehensive Java Programming Course](https://www.youtube.com/watch?v=U709qY6S9rA&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk) to practice:
 
